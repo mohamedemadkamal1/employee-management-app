@@ -21,7 +21,7 @@ A full-stack employee management app built with:
 1. Clone the repo and go to the project root
 
 ```bash
-git clone https://github.com/yourusername/employee-management-system
+git clone https://github.com/mohamedemadkamal1/employee-management-app
 cd employee-management-system
 docker compose up --build
 ```
